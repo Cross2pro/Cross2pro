@@ -1,5 +1,5 @@
 ## Hi there, I'm Cross2pro! 👋
-
+![cross2pro's GitHub stats](https://github-readme-stats.vercel.app/api?username=cross2pro&show_icons=true&theme=radical)
 ### 🎓 About Me
 - 🏫 Graduate Student (M.S.) at **Beijing University of Technology** (北京工业大学)
 - 🏛️ School of Information Technology (信息技术学院)
