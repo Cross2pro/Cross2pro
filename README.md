@@ -1,6 +1,6 @@
 ## Hi there, I'm Cross2pro! 👋
 
-![cross2pro's GitHub stats](https://github-readme-stats.vercel.app/api?username=cross2pro&show_icons=true&theme=transparent)
+![cross2pro's GitHub stats](https://github-readme-stats-one-murex-92.vercel.app/api?username=cross2pro&show_icons=true&theme=transparent)
 
 ### 🚀 Seeking Internship Opportunities
 > **M.S. Student @ BJUT | AI Researcher | Ex-BSP Engineer**
