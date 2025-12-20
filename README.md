@@ -55,4 +55,4 @@
 ### 📫 How to Reach Me
 I am open to discussing internship roles, research collaborations, or technical challenges.
 
-* 📧 **Email:** cross2pro@gmail.com
+* 📧 **Email:** qq1091192337@gmail.com
