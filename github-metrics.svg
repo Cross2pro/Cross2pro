@@ -1,0 +1,18 @@
+<svg width="860" height="220" viewBox="0 0 860 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Cross2pro GitHub metrics</title>
+  <desc id="desc">Placeholder card until the GitHub Actions workflow generates a fresh metrics SVG.</desc>
+  <rect width="860" height="220" rx="16" fill="#0D1117"/>
+  <rect x="1" y="1" width="858" height="218" rx="15" stroke="#30363D" stroke-width="2"/>
+  <text x="40" y="72" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="28" font-weight="700">
+    Cross2pro GitHub Metrics
+  </text>
+  <text x="40" y="114" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18">
+    This card is generated inside the repository to avoid GitHub API rate limiting on page load.
+  </text>
+  <text x="40" y="150" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18">
+    Add the METRICS_TOKEN secret, then run the "Generate GitHub Metrics" workflow once.
+  </text>
+  <text x="40" y="186" fill="#58A6FF" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="600">
+    The workflow will overwrite this placeholder with a fresh SVG.
+  </text>
+</svg>
