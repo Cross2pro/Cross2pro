@@ -1,6 +1,6 @@
 ## Hi there, I'm Cross2pro! 👋
 
-![cross2pro's GitHub metrics](./github-metrics.svg)
+[![cross2pro's GitHub stats](https://raw.githubusercontent.com/Cross2pro/Cross2pro/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### 🚀 Seeking Internship Opportunities
 > **M.S. Student @ BJUT | AI Researcher | Ex-BSP Engineer**
